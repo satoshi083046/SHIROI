@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Linerecorder_Sensor xmlns="http://www.ifm.com/datalink/LinerecorderSensor4">
+  <Version>1.1.0.3</Version>
+  <Sensor>
+    <VendorId>310</VendorId>
+    <DeviceId>306</DeviceId>
+    <ProductId>LMT121</ProductId>
+  </Sensor>
+  <Parameters>
+    <Param id="V_SP1" subindex="" internalValue="98" name="SP1" value="98" unit="%" />
+    <Param id="V_rP1" subindex="" internalValue="88" name="rP1" value="88" unit="%" />
+    <Param id="V_OU1" subindex="" internalValue="5" name="OU1" value="5" unit="" text="Fno / Window fct normally open" />
+    <Param id="V_SP2" subindex="" internalValue="98" name="SP2" value="98" unit="%" />
+    <Param id="V_rP2" subindex="" internalValue="88" name="rP2" value="88" unit="%" />
+    <Param id="V_OU2" subindex="" internalValue="6" name="OU2" value="6" unit="" text="Fnc / Window fct normally closed" />
+    <Param id="V_FOU1" subindex="" internalValue="4" name="FOU1" value="4" unit="" text="OFF" />
+    <Param id="V_dr1" subindex="" internalValue="20" name="dr1" value="2" unit="s" />
+    <Param id="V_FOU2" subindex="" internalValue="4" name="FOU2" value="4" unit="" text="OFF" />
+    <Param id="V_dr2" subindex="" internalValue="20" name="dr2" value="2" unit="s" />
+    <Param id="V_P-n" subindex="" internalValue="1" name="P-n" value="1" unit="" text="nPn" />
+    <Param id="V_dFo" subindex="" internalValue="30" name="dFo" value="3" unit="s" />
+    <Param id="V_ApplicationSpecificTag" subindex="" internalValue="" name="Application Specific Tag" value="" unit="" />
+  </Parameters>
+</Linerecorder_Sensor>
